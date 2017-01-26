@@ -45,7 +45,6 @@
             this.label3 = new System.Windows.Forms.Label();
             this.isdisplayweek = new System.Windows.Forms.CheckBox();
             this.txtmsg = new System.Windows.Forms.TextBox();
-            this.genratereport = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -92,9 +91,9 @@
             // 
             this.btnrunreport.Location = new System.Drawing.Point(247, 262);
             this.btnrunreport.Name = "btnrunreport";
-            this.btnrunreport.Size = new System.Drawing.Size(87, 31);
+            this.btnrunreport.Size = new System.Drawing.Size(109, 31);
             this.btnrunreport.TabIndex = 7;
-            this.btnrunreport.Text = "Dump Report";
+            this.btnrunreport.Text = "Generate Report";
             this.btnrunreport.UseVisualStyleBackColor = true;
             this.btnrunreport.Click += new System.EventHandler(this.btnrunreport_Click);
             // 
@@ -190,23 +189,12 @@
             this.txtmsg.Size = new System.Drawing.Size(366, 52);
             this.txtmsg.TabIndex = 16;
             // 
-            // genratereport
-            // 
-            this.genratereport.Location = new System.Drawing.Point(338, 262);
-            this.genratereport.Name = "genratereport";
-            this.genratereport.Size = new System.Drawing.Size(99, 31);
-            this.genratereport.TabIndex = 17;
-            this.genratereport.Text = "Generate Report";
-            this.genratereport.UseVisualStyleBackColor = true;
-            this.genratereport.Click += new System.EventHandler(this.button2_Click);
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(566, 437);
-            this.Controls.Add(this.genratereport);
             this.Controls.Add(this.txtmsg);
             this.Controls.Add(this.isdisplayweek);
             this.Controls.Add(this.label3);
@@ -247,7 +235,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.CheckBox isdisplayweek;
         private System.Windows.Forms.TextBox txtmsg;
-        private System.Windows.Forms.Button genratereport;
     }
 }
 

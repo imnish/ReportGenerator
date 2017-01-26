@@ -8,3 +8,13 @@ C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\
 C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.exe
 C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.pdb
 C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.csprojResolveAssemblyReference.cache
+D:\Projects\ReportGenerator\WorkReport\WorkReport\bin\Debug\WorkReport.exe.config
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.exe
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.pdb
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.csprojResolveAssemblyReference.cache
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.Form1.resources
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.Properties.Resources.resources
+D:\Projects\ReportGenerator\WorkReport\WorkReport\obj\Debug\WorkReport.csproj.GenerateResource.Cache
+D:\Projects\ReportGenerator\WorkReport\WorkReport\bin\Debug\WorkReport.exe
+D:\Projects\ReportGenerator\WorkReport\WorkReport\bin\Debug\WorkReport.pdb
+D:\Projects\ReportGenerator\WorkReport\WorkReport\bin\Debug\EPPlus.dll
