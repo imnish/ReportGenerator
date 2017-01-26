@@ -65,7 +65,7 @@ namespace WorkReport
             lblmsg.Visible = true;
             txtmsg.Visible = true;
             lblmsg.Text = "Generating...";
-            genratereport.Enabled = false;
+            //genratereport.Enabled = false;
             myBGWorker.RunWorkerAsync();
         }
 
@@ -282,7 +282,7 @@ namespace WorkReport
                 lblmsg.Visible = false;
             }
             else {
-                genratereport.Enabled = true;
+                //genratereport.Enabled = true;
             }
         }
 
