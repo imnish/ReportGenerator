@@ -1,0 +1,10 @@
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\bin\Debug\WorkReport.exe.config
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\bin\Debug\WorkReport.exe
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\bin\Debug\WorkReport.pdb
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\bin\Debug\EPPlus.dll
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.Form1.resources
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.Properties.Resources.resources
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.csproj.GenerateResource.Cache
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.exe
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.pdb
+C:\Users\nmish6\Documents\Visual Studio 2012\Projects\WorkReport\WorkReport\obj\Debug\WorkReport.csprojResolveAssemblyReference.cache
